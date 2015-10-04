@@ -1,0 +1,19 @@
+{
+  "name": "gulp-fin",
+  "version": "0.0.1",
+  "description": "A Gulp snap-in for adding descriptive end-of-block comments in SCSS automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdews/gulp-fin.git"
+  },
+  "author": "Wes Dews <wesley.dews@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdews/gulp-fin/issues"
+  },
+  "homepage": "https://github.com/wdews/gulp-fin#readme"
+}
